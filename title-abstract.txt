@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+<Mitigating Director Gender Bias in Movie Recommender Systems>
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+<The underrepresentation of female directors in the film industry has been extensively studied in sociology and media studies literature. Studies over several decades consistently reveal a significant gender gap, with female directors comprising only a small proportion of overall directors. Despite the recognition of this gender disparity, its impact on recommendation systems remains relatively unexplored. This project investigates whether biases stemming from gender disparities in the film industry are embedded in recommendation models. Furthermore, while existing bias mitigation tools primarily target classification tasks, their application to mitigate biases in recommendation systems has received limited attention. This project aims to bridge this gap by extending bias mitigation techniques from classification tasks to recommendation systems. The ultimate goal is to develop a fair movie recommender system that reduces biases associated with the gender of the director.>
